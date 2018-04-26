@@ -1,0 +1,31 @@
+page{
+    background-color: #b3d4db;
+}
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.user-avatar{
+  width: 100px;
+  height: 100px;
+  /* margin-top: 0px; */
+}
+.user-name{
+  margin-top: 100rpx;
+  margin-bottom: 60rpx;
+  font-size: 32rpx;
+  font-weight:bold;
+}
+.moto-container{
+  border:1px solid #405f80;
+  width: 200rpx;
+  height: 80rpx;
+  border-radius: 5px;
+  text-align: center;
+}
+.moto{
+  font-size: 22rpx;
+  font-weight: bold;
+  line-height: 80rpx;
+}

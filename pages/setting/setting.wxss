@@ -1,0 +1,29 @@
+.setting-container{
+  background: #ddd;
+}
+.setting-container-small{
+  width: 100%;
+  height: auto;
+  background: #FFF;
+  display: flex;
+  flex-direction: column;
+  margin-top: 20rpx;
+   border-bottom: 1rpx solid #ddd;
+}
+.setting-container-small>view{
+  height: 80rpx;
+  width: 100%;
+  border-top: 1rpx solid #ddd;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.setting-container-small text{
+  font-size: 30rpx;
+  margin-left: 20rpx;
+}
+.setting-container-small image{
+  height: 30rpx;
+  width: 30rpx;
+  margin-right: 20rpx;
+}

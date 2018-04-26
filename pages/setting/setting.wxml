@@ -1,0 +1,16 @@
+<view class='setting-container'>
+    <view class='setting-container-small'>
+      <view class='setting-adviece'>
+        <text class='setting-adviece-txt'>意见反馈</text>
+        <image class='setting-adviece-img' src='/images/icon/arrow-right.png'></image>
+      </view>
+      <view class='setting-clearStorage'>
+        <text class='setting-clearStorage-txt'>清楚缓存</text>
+        <image class='setting-clearStorage-img' src='/images/icon/arrow-right.png'></image>
+      </view>
+      <view class='setting-aboutUS'>
+        <text class='setting-aboutUS-txt'>关于我们</text>
+        <image class='setting-aboutUS-img' src='/images/icon/arrow-right.png'></image>
+      </view>
+    </view>
+</view>
